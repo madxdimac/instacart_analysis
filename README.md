@@ -2,6 +2,9 @@
 ---
 This is a machine learning study using the Instacart dataset from Kaggle.com
 
+# Blog
+https://tinyurl.com/y7znl5ac
+
 # Dataset
 https://www.kaggle.com/c/instacart-market-basket-analysis
 
